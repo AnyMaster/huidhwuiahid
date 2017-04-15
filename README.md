@@ -19,3 +19,17 @@ Original post from the #ShadowBrokers https://steemit.com/shadowbrokers/@theshad
 - `85e03866ae7eaaedd9462054b62a10f2180983bdfd086b29631173ae4422f524` odd.tar.xz
 - `df468f01e65f3f1bc18f844d7f7bac8f8eec3664a131e2fb67ae3a55f8523004` swift.tar.xz
 - `5bb9ddfbcefb75d017a9e745b83729390617b16f4079356579ef00e5e6b5fbd0` windows.tar.xz
+
+ETERNALROMANCE：一款远程提权漏洞(SYSTEM权限)，针对的系统包含Windows XP到Windows 2008，通过TCP端口445进行利用
+
+ENTERNALCHAMPION, ETERNALSYSTEM：针对Windows 8 and 2012的远程利用
+
+ETERNALBLUE：针对Windows XP to Windows 2012的SMB和NBT
+
+EXPLODINGCAN：针对Windows 2003 IIS 6.0远程利用
+
+EWORKFRENZY：针对Lotus Domino 6.5.4和7.0.2
+
+ETERNALSYNERGY：针对Windows 8和Windows Server 2012
+
+FUZZBUNCH：一款类似Metasploit的Exploit框架
